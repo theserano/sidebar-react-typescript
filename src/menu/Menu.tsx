@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { IoMenu, IoClose } from 'react-icons/io5';
 import "./Menu.scss";
 import { Link } from 'react-router-dom';
